@@ -1,0 +1,39 @@
+body {
+    background-color: #fcfce2;
+}
+
+#options {
+    text-align: center;
+    color: #2a678d;
+}
+
+select {
+    margin: 5px;
+    color: white;
+    border-radius: 5px;
+    border: none;
+    background-color: #81749c;
+    padding: 10px;
+}
+
+h2 {
+    text-align: center;
+    margin-top: 50px;
+    color: #4d3e6b;
+}
+
+p {
+    text-align: center;
+    margin-top: 50px;
+    color: #2a678d;
+    font-size: 1.2em;
+}
+
+img {
+    border-radius: 20px;
+    margin-top: 50px;
+}
+
+#content {
+    text-align: center;
+}
